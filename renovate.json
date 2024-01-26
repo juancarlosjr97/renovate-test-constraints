@@ -12,10 +12,10 @@
             ]
         },
         {
-            "matchUpdateTypes": [
-                "major"
-            ],
-            "enabled": false
+            "allowedVersions": "24.0.7",
+            "matchPackageNames": [
+                "24.0.7"
+            ]
         }
     ]
 }
