@@ -6,7 +6,10 @@
     ],
     "packageRules": [
         {
-            "allowedVersions": "3.12.1-alpine3.18"
+            "matchStrings": [
+                "python:3.12.1-alpine3.18"
+            ],
+            "allowedVersions": "alpine3.18"
         }
     ]
 }
