@@ -10,6 +10,12 @@
             "matchPackageNames": [
                 "alpine3.18"
             ]
+        },
+        {
+            "allowedVersions": "24.0.7-git",
+            "matchPackageNames": [
+                "24.0.7-git"
+            ]
         }
     ]
 }
