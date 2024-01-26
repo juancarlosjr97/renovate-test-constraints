@@ -1,0 +1,12 @@
+{
+    "extends": [
+        "config:base",
+        "group:all",
+        "regexManagers:dockerfileVersions"
+    ],
+    "packageRules": [
+        {
+            "allowedVersions": "3.12.1-alpine3.18"
+        }
+    ]
+}
