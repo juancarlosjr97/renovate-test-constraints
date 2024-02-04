@@ -10,7 +10,8 @@
             "allowedVersions": "<3",
             "matchPackageNames": [
                 "node-fetch"
-            ]
+            ],
+            "dependencyDashboardApproval": true
         }
     ]
 }
