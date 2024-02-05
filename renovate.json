@@ -7,7 +7,7 @@
     ],
     "packageRules": [
         {
-            "matchPackageNames": [
+            "matchPackagePatterns": [
                 "node-fetch"
             ],
             "dependencyDashboardApproval": true
