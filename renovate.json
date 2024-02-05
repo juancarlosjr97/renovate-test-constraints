@@ -10,7 +10,8 @@
             "matchPackagePatterns": [
                 "node-fetch"
             ],
-            "dependencyDashboardApproval": true
+            "dependencyDashboardApproval": true,
+            "groupName": "devDependencies - node-fetch"
         }
     ]
 }
