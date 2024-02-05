@@ -7,7 +7,6 @@
     ],
     "packageRules": [
         {
-            "allowedVersions": "<3",
             "matchPackageNames": [
                 "node-fetch"
             ],
