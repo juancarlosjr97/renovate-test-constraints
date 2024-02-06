@@ -11,7 +11,10 @@
                 "node-fetch"
             ],
             "dependencyDashboardApproval": true,
-            "groupName": "devDependencies - node-fetch"
+            "groupName": "devDependencies - node-fetch",
+            "matchUpdateTypes": [
+                "major"
+            ]
         }
     ]
 }
