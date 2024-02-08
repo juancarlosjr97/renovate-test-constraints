@@ -15,6 +15,16 @@
             "matchUpdateTypes": [
                 "major"
             ]
+        },
+        {
+            "matchPackagePatterns": [
+                "node-fetch"
+            ],
+            "dependencyDashboardApproval": false,
+            "matchUpdateTypes": [
+                "minor",
+                "patch"
+            ]
         }
     ]
 }
