@@ -21,6 +21,7 @@
                 "node-fetch"
             ],
             "dependencyDashboardApproval": false,
+            "groupName": "devDependencies - node-fetch - not major",
             "matchUpdateTypes": [
                 "minor",
                 "patch"
