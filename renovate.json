@@ -23,8 +23,15 @@
             "dependencyDashboardApproval": false,
             "groupName": "devDependencies - node-fetch - not major",
             "matchUpdateTypes": [
+                "bump",
+                "digest",
+                "lockFileMaintenance",
                 "minor",
-                "patch"
+                "patch",
+                "pin",
+                "pinDigest",
+                "replacement",
+                "rollback"
             ]
         }
     ]
